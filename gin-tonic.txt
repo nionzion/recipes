@@ -1,0 +1,12 @@
+This is a hot new recipe for a delicious cocktail!
+
+### Ingredients
++ crushed ice
++ gin
++ tonic water
++ lemon
+
+*** instructions
+- put everything together in glass
+
+=== drink it! (and enjoy!)
